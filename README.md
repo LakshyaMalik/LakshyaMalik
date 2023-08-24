@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![LakshyaMalik's GitHub | Dependencies](https://stats.quine.sh/LakshyaMalik/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LakshyaMalik)
